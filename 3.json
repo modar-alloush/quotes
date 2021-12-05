@@ -1,0 +1,82 @@
+{
+  "statusCode": 200,
+  "message": "Quotes",
+  "pagination": {
+    "currentPage": 3,
+    "nextPage": 4,
+    "totalPages": 7268
+  },
+  "totalQuotes": 72672,
+  "data": [
+    {
+      "_id": "5eb17aadb69dc744b4e70d2d",
+      "quoteText": "An archaeologist is the best husband a woman can have. The older she gets the more interested he is in her.",
+      "quoteAuthor": "Agatha Christie",
+      "quoteGenre": "age",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e70d2e",
+      "quoteText": "All diseases run into one, old age.",
+      "quoteAuthor": "Ralph Waldo Emerson",
+      "quoteGenre": "age",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e70d2f",
+      "quoteText": "Bashfulness is an ornament to youth, but a reproach to old age.",
+      "quoteAuthor": "Aristotle",
+      "quoteGenre": "age",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e70d30",
+      "quoteText": "Like everyone else who makes the mistake of getting older, I begin each day with coffee and obituaries.",
+      "quoteAuthor": "Bill Cosby",
+      "quoteGenre": "age",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e70d31",
+      "quoteText": "Age appears to be best in four things old wood best to burn, old wine to drink, old friends to trust, and old authors to read.",
+      "quoteAuthor": "Francis Bacon",
+      "quoteGenre": "age",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e70d32",
+      "quoteText": "None are so old as those who have outlived enthusiasm.",
+      "quoteAuthor": "Henry David Thoreau",
+      "quoteGenre": "age",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e70d33",
+      "quoteText": "Every man over forty is a scoundrel.",
+      "quoteAuthor": "George Bernard Shaw",
+      "quoteGenre": "age",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e70d34",
+      "quoteText": "Forty is the old age of youth fifty the youth of old age.",
+      "quoteAuthor": "Victor Hugo",
+      "quoteGenre": "age",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e70d35",
+      "quoteText": "You can't help getting older, but you don't have to get old.",
+      "quoteAuthor": "George Burns",
+      "quoteGenre": "age",
+      "__v": 0
+    },
+    {
+      "_id": "5eb17aadb69dc744b4e70d36",
+      "quoteText": "Alas, after a certain age every man is responsible for his face.",
+      "quoteAuthor": "Albert Camus",
+      "quoteGenre": "age",
+      "__v": 0
+    }
+  ]
+}
