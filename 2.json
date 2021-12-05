@@ -4,13 +4,13 @@
   "pagination": {
     "currentPage": 2,
     "nextPage": 3,
-    "totalPages": 7268
+    "totalPages": 5
   },
-  "totalQuotes": 72672,
+  "totalQuotes": 50,
   "data": [
     {
       "_id": "5eb17aadb69dc744b4e70d2d",
-      "quoteText": "An archaeologist is the best husband a woman can have. The older she gets the more interested he is in her.",
+      "quoteText": "2222222222An archaeologist is the best husband a woman can have. The older she gets the more interested he is in her.",
       "quoteAuthor": "Agatha Christie",
       "quoteGenre": "age",
       "__v": 0
