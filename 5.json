@@ -9,72 +9,72 @@
   "totalQuotes": 50,
   "data": [
     {
-      "_id": "5eb17aadb69dc744b4e70d2d",
-      "quoteText": "5555555An archaeologist is the best husband a woman can have. The older she gets the more interested he is in her.",
-      "quoteAuthor": "Agatha Christie",
+      "_id": "41",
+      "quoteText": "فليكن عندك الشجاعة لتفعل بدلاً من أن تقوم برد فعل",
+      "quoteAuthor": "أوليفر وندل هولمز",
       "quoteGenre": "age",
       "__v": 0
     },
     {
-      "_id": "5eb17aadb69dc744b4e70d2e",
-      "quoteText": "All diseases run into one, old age.",
-      "quoteAuthor": "Ralph Waldo Emerson",
+      "_id": "42",
+      "quoteText": "يقرص الموت أذني ويقول عش حياتك! فأنا قادم",
+      "quoteAuthor": "أوليفر وندل هولمز",
       "quoteGenre": "age",
       "__v": 0
     },
     {
-      "_id": "5eb17aadb69dc744b4e70d2f",
-      "quoteText": "Bashfulness is an ornament to youth, but a reproach to old age.",
-      "quoteAuthor": "Aristotle",
+      "_id": "43",
+      "quoteText": "نادراً ما يلاحظ الناس ملابسك القديمة لو كنت ترتدي ابتسامة كبيرة",
+      "quoteAuthor": "لي ميلدون",
       "quoteGenre": "age",
       "__v": 0
     },
     {
-      "_id": "5eb17aadb69dc744b4e70d30",
-      "quoteText": "Like everyone else who makes the mistake of getting older, I begin each day with coffee and obituaries.",
-      "quoteAuthor": "Bill Cosby",
+      "_id": "44",
+      "quoteText": "الابتسامة من أرخص الطرق لتغير بها مظهرك",
+      "quoteAuthor": "شارلز جوردي",
       "quoteGenre": "age",
       "__v": 0
     },
     {
-      "_id": "5eb17aadb69dc744b4e70d31",
-      "quoteText": "Age appears to be best in four things old wood best to burn, old wine to drink, old friends to trust, and old authors to read.",
-      "quoteAuthor": "Francis Bacon",
+      "_id": "45",
+      "quoteText": "الإبداع يأتي من الثقة , ثق في غرائزك ولا تأمل أكثر مما تعمل ",
+      "quoteAuthor": "ريتا براون",
       "quoteGenre": "age",
       "__v": 0
     },
     {
-      "_id": "5eb17aadb69dc744b4e70d32",
-      "quoteText": "None are so old as those who have outlived enthusiasm.",
-      "quoteAuthor": "Henry David Thoreau",
+      "_id": "46",
+      "quoteText": "المبدع هو رجل أكثر بدائية، أكثر تحضراً، أكثر تدميراً، أكثر جنوناً، وأكثر عقلانية من أي رجل عادي",
+      "quoteAuthor": "فرانك براون",
       "quoteGenre": "age",
       "__v": 0
     },
     {
-      "_id": "5eb17aadb69dc744b4e70d33",
-      "quoteText": "Every man over forty is a scoundrel.",
-      "quoteAuthor": "George Bernard Shaw",
+      "_id": "47",
+      "quoteText": "المبدع كبير بنقاط ضعفه كما أن الماسة جميلة بشرخ صغير فيها أو ضمور في ضوئها وفي ذلك ما يميزها عن الماس الصناعي ",
+      "quoteAuthor": "غادة السمان",
       "quoteGenre": "age",
       "__v": 0
     },
     {
-      "_id": "5eb17aadb69dc744b4e70d34",
-      "quoteText": "Forty is the old age of youth fifty the youth of old age.",
-      "quoteAuthor": "Victor Hugo",
+      "_id": "48",
+      "quoteText": "يمكن تقسيم الناس إلى قسمين: من يبادرون ويفعلون، ومن لا يراوحون أماكنهم ويتسائلون عن سبب عدم فعل ذلك بطريقة أخرى",
+      "quoteAuthor": "أوليفر وندل هولمز",
       "quoteGenre": "age",
       "__v": 0
     },
     {
-      "_id": "5eb17aadb69dc744b4e70d35",
-      "quoteText": "You can't help getting older, but you don't have to get old.",
-      "quoteAuthor": "George Burns",
+      "_id": "49",
+      "quoteText": " إذا أردت أن تعرف رأي أحد فيك فلتقم بإثارة غضبه",
+      "quoteAuthor": "أوليفر وندل هولمز",
       "quoteGenre": "age",
       "__v": 0
     }, 
     {
-      "_id": "5eb17aadb69dc744b4e70d36",
-      "quoteText": "Alas, after a certain age every man is responsible for his face.",
-      "quoteAuthor": "Albert Camus",
+      "_id": "50",
+      "quoteText": "عندما يتمدد العقل لاستيعاب فكرة جديدة لا يعود أبداً إلى حجمه الطبيعي",
+      "quoteAuthor": "أوليفر وندل هولمز",
       "quoteGenre": "age",
       "__v": 0
     }
