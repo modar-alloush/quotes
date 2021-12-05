@@ -9,74 +9,54 @@
   "totalQuotes": 50,
   "data": [
     {
-      "_id": "5eb17aadb69dc744b4e70d2d",
-      "quoteText": "33333333An archaeologist is the best husband a woman can have. The older she gets the more interested he is in her.",
-      "quoteAuthor": "Agatha Christie",
-      "quoteGenre": "age",
-      "__v": 0
-    },
-    {
-      "_id": "5eb17aadb69dc744b4e70d2e",
-      "quoteText": "All diseases run into one, old age.",
-      "quoteAuthor": "Ralph Waldo Emerson",
-      "quoteGenre": "age",
-      "__v": 0
-    },
-    {
-      "_id": "5eb17aadb69dc744b4e70d2f",
-      "quoteText": "Bashfulness is an ornament to youth, but a reproach to old age.",
-      "quoteAuthor": "Aristotle",
-      "quoteGenre": "age",
-      "__v": 0
-    },
-    {
-      "_id": "5eb17aadb69dc744b4e70d30",
-      "quoteText": "Like everyone else who makes the mistake of getting older, I begin each day with coffee and obituaries.",
-      "quoteAuthor": "Bill Cosby",
-      "quoteGenre": "age",
-      "__v": 0
-    },
-    {
-      "_id": "5eb17aadb69dc744b4e70d31",
-      "quoteText": "Age appears to be best in four things old wood best to burn, old wine to drink, old friends to trust, and old authors to read.",
-      "quoteAuthor": "Francis Bacon",
-      "quoteGenre": "age",
-      "__v": 0
-    },
-    {
-      "_id": "5eb17aadb69dc744b4e70d32",
-      "quoteText": "None are so old as those who have outlived enthusiasm.",
-      "quoteAuthor": "Henry David Thoreau",
-      "quoteGenre": "age",
-      "__v": 0
-    },
-    {
-      "_id": "5eb17aadb69dc744b4e70d33",
-      "quoteText": "Every man over forty is a scoundrel.",
-      "quoteAuthor": "George Bernard Shaw",
-      "quoteGenre": "age",
-      "__v": 0
-    },
-    {
-      "_id": "5eb17aadb69dc744b4e70d34",
-      "quoteText": "Forty is the old age of youth fifty the youth of old age.",
-      "quoteAuthor": "Victor Hugo",
-      "quoteGenre": "age",
-      "__v": 0
-    },
-    {
-      "_id": "5eb17aadb69dc744b4e70d35",
-      "quoteText": "You can't help getting older, but you don't have to get old.",
-      "quoteAuthor": "George Burns",
-      "quoteGenre": "age",
-      "__v": 0
-    },
-    {
-      "_id": "5eb17aadb69dc744b4e70d36",
-      "quoteText": "Alas, after a certain age every man is responsible for his face.",
-      "quoteAuthor": "Albert Camus",
-      "quoteGenre": "age",
-      "__v": 0
-    }
+    "_id": "21",
+    "quoteText": "كن دائماً الاصدار الاول من نفسك ، و لا تكن الاصدار الثاني من احد آخر",
+    "quoteAuthor": "جودي جارلاند"
+  },
+  {
+    "_id": "22",
+    "quoteText": "وجود رسالة في الحياة ، هذا هو العامل المشترك الأول بين الناجحين",
+    "quoteAuthor": "ريتشارد ميلر"
+  },
+  {
+    "_id": "23",
+    "quoteText": "يجب أن تثق بنفسك .. و اذا لم تثق بنفسك ، فمن ذا الذي سيثق بك ؟",
+    "quoteAuthor": "ارسطو"
+  },
+  {
+    "_id": "24",
+    "quoteText": "إذا كنت تحب ما تقوم به، ومستعد للقيام بأي شيء لتنجح في ذلك، فهذا هو النجاح الحقيقي، الأمر يستحق عناء كل دقيقة تقضيها وحيدا في الليل، وما تقضيه من وقت في التفكير في ما تريد تصميمه وبناءه",
+    "quoteAuthor": "ستيف فوزنياك"
+  },
+  {
+    "_id": "25",
+    "quoteText": "يجب ان تعمل في صمت ، و لا يجب ان يكون الصمت عملك",
+    "quoteAuthor": "ليوناردو دافنشي"
+  },
+  {
+    "_id": "26",
+    "quoteText": "قد يشك الناس فيما تقول ، و لكنهم سوف يؤمنون بما تفعل",
+    "quoteAuthor": "لويس كايس"
+  },
+  {
+    "_id": "27",
+    "quoteText": "الشئ الوحيد الثابت في الحياة هو التغيير المستمر",
+    "quoteAuthor": "هيراقليطس"
+  },
+  {
+    "_id": "28",
+    "quoteText": "نحن نصبح ما نفكر فيه في معظم الوقت، وهذا هو أغرب سر في هذه الحياة",
+    "quoteAuthor": "إيرل نايتينجال"
+  },
+  {
+    "_id": "29",
+    "quoteText": "النتائج الكبيرة تحتاج لطموحات كبيرة",
+    "quoteAuthor": "جيمس شامبي"
+  },
+  {
+    "_id": "30",
+    "quoteText": "ليست الاهداف ضرورية لتحفيزنا فحسب ، بل هي أساسية فعلا لبقائنا على قيد الحياة",
+    "quoteAuthor": "روبرت شولر"
+  }
   ]
 }
