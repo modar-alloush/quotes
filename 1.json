@@ -8,75 +8,55 @@
   },
   "totalQuotes": 50,
   "data": [
-    {
-      "_id": "5eb17aadb69dc744b4e70d2d",
-      "quoteText": "1111111An archaeologist is the best husband a woman can have. The older she gets the more interested he is in her.",
-      "quoteAuthor": "Agatha Christie",
-      "quoteGenre": "age",
-      "__v": 0
-    },
-    {
-      "_id": "5eb17aadb69dc744b4e70d2e",
-      "quoteText": "All diseases run into one, old age.",
-      "quoteAuthor": "Ralph Waldo Emerson",
-      "quoteGenre": "age",
-      "__v": 0
-    },
-    {
-      "_id": "5eb17aadb69dc744b4e70d2f",
-      "quoteText": "Bashfulness is an ornament to youth, but a reproach to old age.",
-      "quoteAuthor": "Aristotle",
-      "quoteGenre": "age",
-      "__v": 0
-    },
-    {
-      "_id": "5eb17aadb69dc744b4e70d30",
-      "quoteText": "Like everyone else who makes the mistake of getting older, I begin each day with coffee and obituaries.",
-      "quoteAuthor": "Bill Cosby",
-      "quoteGenre": "age",
-      "__v": 0
-    },
-    {
-      "_id": "5eb17aadb69dc744b4e70d31",
-      "quoteText": "Age appears to be best in four things old wood best to burn, old wine to drink, old friends to trust, and old authors to read.",
-      "quoteAuthor": "Francis Bacon",
-      "quoteGenre": "age",
-      "__v": 0
-    },
-    {
-      "_id": "5eb17aadb69dc744b4e70d32",
-      "quoteText": "None are so old as those who have outlived enthusiasm.",
-      "quoteAuthor": "Henry David Thoreau",
-      "quoteGenre": "age",
-      "__v": 0
-    },
-    {
-      "_id": "5eb17aadb69dc744b4e70d33",
-      "quoteText": "Every man over forty is a scoundrel.",
-      "quoteAuthor": "George Bernard Shaw",
-      "quoteGenre": "age",
-      "__v": 0
-    },
-    {
-      "_id": "5eb17aadb69dc744b4e70d34",
-      "quoteText": "Forty is the old age of youth fifty the youth of old age.",
-      "quoteAuthor": "Victor Hugo",
-      "quoteGenre": "age",
-      "__v": 0
-    },
-    {
-      "_id": "5eb17aadb69dc744b4e70d35",
-      "quoteText": "You can't help getting older, but you don't have to get old.",
-      "quoteAuthor": "George Burns",
-      "quoteGenre": "age",
-      "__v": 0
-    },
-    {
-      "_id": "5eb17aadb69dc744b4e70d36",
-      "quoteText": "Alas, after a certain age every man is responsible for his face.",
-      "quoteAuthor": "Albert Camus",
-      "quoteGenre": "age",
-      "__v": 0
-    }
+  {
+    "_id": "1",
+    "quoteText": "اذا لم يكن لديك هدف ، فاجعل هدفك الاول ايجاد واحد",
+    "quoteAuthor": "وليام شكسبير"
+  },
+  {
+    "_id": "2",
+    "quoteText": "الشخص الواثق بنفسه يقول : يبدو الأمر صعبا ً و لكنه ممكن .. أما غير الواثق فيردد : الأمر ممكن ولكنه يبدو صعبا",
+    "quoteAuthor": "توماس كارليل"
+  },
+  {    
+    "_id": "3",
+    "quoteText": "يمكن القول بشكل عام ان الإنسان الاكثر نجاحا ً في الحياة هو من تتوفر لديه أفضل و أحسـن المعلومات",
+    "quoteAuthor": "بنيامين دزرائيلي"
+  },
+  {
+    "_id": "4",
+    "quoteText": "الإنسان الذي يمكنه اتقان الصبر يمكنه اتقان أي شئ آخر",
+    "quoteAuthor": "اندرو كارنيجي"
+  },
+  {
+    "_id": "5",
+    "quoteText": "الفكرة باختصار : ضع هدفاً ، و لا تتخل عنه حتى تحققه",
+    "quoteAuthor": "خولة القزويني"
+  },
+  {
+    "_id": "6",
+    "quoteText": "لا يصل الناس الى حديقة النجاح ، دون ان يمروا بمحطات التعب و الفشل و اليأس ،و صاحب الإرادة القوية لا يطيل الوقوف في هذه المحطات",
+    "quoteAuthor": "جون تشارلز سالاك"
+  },
+  {
+    "_id": "7",
+    "quoteText": "التركيز هو أساس النجاح في السياسة ، في التجارة ، في العمل .. و في العلاقات الإنسانية كافة",
+    "quoteAuthor": "رالف والدو امرسون"
+  },
+  {
+    "_id": "8",
+    "quoteText": "الذي يعوق معظم الناس عن تسجيل إنجازات جيدة ليس العقبات الكبرى التي يواجهونها في طريقهم، وإنما التردد والخوف من الانطلاق",
+    "quoteAuthor": "عبد الكريم بكار"
+  },
+  {
+    "_id": "9",
+    "quoteText": "الفرص كثيرة ، و لكنها لا تتسكع أمام الأبواب أبداً",
+    "quoteAuthor": "عبد الله الشيتي"
+  },
+  {
+    "_id": "10",
+    "quoteText": "من الأفضل إن تمشى ببطء إلى الامام على إن تمشى مسرعاً إلى الخلف",
+    "quoteAuthor": "ابراهام لنكولن"
+  }
   ]
 }
